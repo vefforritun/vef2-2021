@@ -29,7 +29,7 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 
 ## Verkefni
 
-* [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef1-2021-v1)
+* [Verkefni 1 (HTML #1)](https://github.com/vefforritun/vef2-2021-v1)
   * Sett fyrir 14. janúar
   * Skilist 28. janúar
   * [Kynning í fyrirlestri](https://youtu.be/pCEHnurbuCU)
