@@ -29,10 +29,11 @@ const readFileAsync = util.promisify(fs.readFile);
 // sem við getum stótt
 // const readFileAsync = require('fs').promises.readFile;
 
-readFileAsync('data.txt')
+const p = readFileAsync('data.txt')
   .then((data) => {
     console.log(data.toString('utf8'));
   })
   .catch((err) => {
     console.error(err);
   });
+console.log(p);

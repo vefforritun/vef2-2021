@@ -17,7 +17,7 @@ const FILE = './datad.txt';
 async function exists(file) {
   try {
     const stats = await statAsync(file);
-    return stats.isFile;
+    return stats.isFile();
   } catch (e) {
     // ekki til, loggum ekki
   }
@@ -31,7 +31,7 @@ async function main() {
   // við lesum... en gleymum await!
   // Promise eru truthy svo þetta mun virka þangað
   // til við reynum að lesa skrá sem er ekki til
-  if (exists(FILE)) {
+  if (await exists(FILE)) {
     data = await readFileAsync(FILE);
   } else {
     console.warn(`Skrá "${FILE}" er ekki til`);
