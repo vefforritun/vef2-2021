@@ -2,9 +2,9 @@
 
 ## Fyrirlestrar
 
-[Fyrirlestur 1.1: Kynning](01.1.kynning.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 1.1: Kynning](01.1.kynning.md), [vídeó](https://youtu.be/rIOiSFSSNgQ)
 
-[Fyrirlestur 1.2: node.js](01.2.nodejs.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 1.2: node.js](01.2.nodejs.md), [vídeó](https://youtu.be/I_x2pUZSgyA)
 
 * [hello-world.js](daemi/node/01.hello-world.js)
 * [interval.js](daemi/node/02.interval.js)
