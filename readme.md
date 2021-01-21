@@ -24,8 +24,18 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 
 ## Fyrirlestrar
 
+Hver fyrirlestur samanstendur af fyrirlestri sem er haldinn, hlekk á upptöku á hann og lista af dæmum sem fylgja. Vísað er í dæmin innan fyrirlestra en reynt er að hafa þau einnig sjálfskjalandi, þ.e.a.s. hægt er að skoða þau og (vonandi) skilja án samhengis fyrirlesturs.
+
+Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram eða eftir fyrirlestra. Gert er ráð fyrir að farið sé yfir það í verkefnum.
+
+„Verkefni vikunnar“ inniheldur tillögu að verkefnum sem hægt er að vinna í framhaldi af fyrirlestri og fram að næsta. Sérstök dæmi, hugtök, eða forrit sem ætti að setja upp. Einnig tenging fyrirlestra við þau verkefni sem eru í gangi.
+
+Ítarefni er efni sem ekki er gerð krafa um að sé farið yfir en mun veita dýpri skilning á námsefninu og kynna efni sem er utan námsefnis en tengist vefforritun.
+
 * [Fyrirlestur 1, 14. janúar 2021](fyrirlestrar/01/)
   * Kynning, node.js
+* [Fyrirlestur 2, 21. janúar 2021](fyrirlestrar/02/)
+  * Einingar, express, HTTP
 
 ## Verkefni
 
