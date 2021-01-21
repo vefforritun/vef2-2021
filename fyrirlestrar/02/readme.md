@@ -1,12 +1,12 @@
 # Fyrirlestur 2, 21. janúar 2019
 
-[Fyrirlestur 2.1: Einingar](02.1.modules.md), [vídeó]()
+[Fyrirlestur 2.1: Einingar](02.1.modules.md), [vídeó](https://youtu.be/8oimVmk6kD8)
 
 * [jsdoc.js](daemi/modules/jsdoc.js)
 * [modules.js](daemi/modules/modules.js)
 * [npm](daemi/modules/npm)
 
-[Fyrirlestur 2.2: Express](02.3.express.md), [vídeó]()
+[Fyrirlestur 2.2: Express](02.3.express.md), [vídeó, 1 af 2](https://youtu.be/GD35XdnlsFs), [2 af 2](https://youtu.be/vt4UX4Bh46Q)
 
 * [hello-world.js](daemi/express/01.hello-world.js)
 * [request.js](daemi/express/02.request.js)
@@ -20,7 +20,7 @@
 * [template-ejs.js](daemi/express/09.template-ejs.js)
 * [async-await.js](daemi/express/10.async-await.js)
 
-[Fyrirlestur 2.3: HTTP](03.1.http.md), [vídeó]()
+[Fyrirlestur 2.3: HTTP](03.1.http.md), [vídeó](https://youtu.be/hWVxmMYG3Go)
 
 * [http-methods.js](daemi/http/01.http-methods.js)
 * [content-type.js](daemi/http/02.content-type.js)
@@ -56,7 +56,7 @@
     * [ ] Setja upp git og GitHub account, ef þarf
     * [ ] Clone'a repo og setja upp
     * [ ] Setja upp verkefni og tól: eslint, stylelint, sass
-    * [ ] Skoða fyrirlestra að ofan til að rifja upp
+    * [ ] Skoða fyrirlestra úr vef1 (sjá fyrirlestur 1)
     * [ ] Skoða sambærileg verkefni frá fyrri árum í vef2
       * [ ] [vef2 2019](https://github.com/vefforritun/vef2-2019#verkefni)
       * [ ] [vef2 2018](https://github.com/vefforritun/vef2-2018#verkefni)
