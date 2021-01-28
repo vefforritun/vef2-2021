@@ -36,6 +36,8 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Kynning, node.js
 * [Fyrirlestur 2, 21. janúar 2021](fyrirlestrar/02/)
   * Einingar, express, HTTP
+* [Fyrirlestur 3, 28. janúar 2021](fyrirlestrar/03/)
+  * Form, postgres, Heroku
 
 ## Verkefni
 
@@ -43,7 +45,10 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Sett fyrir 14. janúar
   * Skilist 28. janúar
   * [Kynning í fyrirlestri](https://youtu.be/pCEHnurbuCU)
-* Verkefni 2
+* [Verkefni 2](https://github.com/vefforritun/vef2-2021-v2)
+  * Sett fyrir 28. janúar
+  * Skilist 11. febrúar
+  * [Kynning í fyrirlestri](https://youtu.be/)
 * Verkefni 3
 * Verkefni 4
 * Verkefni 5
