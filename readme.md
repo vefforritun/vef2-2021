@@ -9,8 +9,8 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 |   1  | 14. janúar  | Kynning, node.js             | Verkefni #1    |                |
 |   2  | 21. janúar  | Einingar, express, HTTP      |                |                |
 |   3  | 28. janúar  | Form, postgres, Heroku       | Verkefni #2    | Verkefni #1    |
-|   4  | 4. febrúar  | Vefþjónustur, öryggi         | Hópverkefni #1 |                |
-|   5  | 11. febrúar | Auðkenning                   | Verkefni #3    | Verkefni #2    |
+|   4  | 4. febrúar  | Öryggi, vefþjónustur         | Hópverkefni #1 |                |
+|   5  | 11. febrúar | Vefþjónustur, auðkenning     | Verkefni #3    | Verkefni #2    |
 |   6  | 18. febrúar | Vefþjónustur                 |                |                |
 |   7  | 25. febrúar | redis & cache, straumar & WS | Verkefni #4    | Verkefni #3    |
 |   8  | 4. mars     | GraphQL                      |                | Hópverkefni #1 |
@@ -38,6 +38,8 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Einingar, express, HTTP
 * [Fyrirlestur 3, 28. janúar 2021](fyrirlestrar/03/)
   * Form, postgres, Heroku
+* [Fyrirlestur 4, 4. febrúar 2021](fyrirlestrar/04/)
+  * Öryggi, vefþjónustur
 
 ## Verkefni
 
@@ -48,7 +50,6 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
 * [Verkefni 2](https://github.com/vefforritun/vef2-2021-v2)
   * Sett fyrir 28. janúar
   * Skilist 11. febrúar
-  * [Kynning í fyrirlestri](https://youtu.be/)
 * Verkefni 3
 * Verkefni 4
 * Verkefni 5
