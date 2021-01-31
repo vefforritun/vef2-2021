@@ -22,6 +22,9 @@ module.exports = {
     // viljum frekar named export
     'import/prefer-default-export': 0,
 
+    // verðum að hafa .mjs
+    'import/extensions': 0,
+
     'no-continue': 0,
   }
 };

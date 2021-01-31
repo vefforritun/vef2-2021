@@ -15,12 +15,12 @@ function futureMessage(msg) {
 }
 
 futureMessage('foo')
-  .catch(s => console.log(s.message));
+  .catch((s) => console.log(s.message));
 // "nope" strax ásamt villuskilaboðum (ekki stacktrace)
 
 futureMessage('Hi!')
-  .then(s => console.log(s))
-  .catch(s => console.log(s.message));
+  .then((s) => console.log(s))
+  .catch((s) => console.log(s.message));
 // "Hi! from future!" eftir 2 sek
 // Hér mun catch aldrei grípa neitt þar sem við
 // höfum fast inntak, en ættum _alltaf_ að skilgreina
