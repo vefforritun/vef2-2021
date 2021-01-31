@@ -13,3 +13,6 @@ yarn-error.log*
 
 .env
 temp
+
+# Ekki tracka package-lock.json í dæmum
+**/package-lock.json
