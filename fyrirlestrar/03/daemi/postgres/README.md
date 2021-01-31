@@ -16,4 +16,4 @@ CREATE TABLE
 > psql -U vef2-2021 vef2-2021
 ```
 
-Eða nota pgAdmin4
+Eða nota pgAdmin4.

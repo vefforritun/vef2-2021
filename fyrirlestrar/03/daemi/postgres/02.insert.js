@@ -1,21 +1,30 @@
-const { Client } = require('pg');
+import pg from 'pg';
 
-const connectionString = 'postgres://:@localhost/examples-2019';
+const connectionString = 'postgres://vef2-2021:123@localhost/vef2-2021';
 
-const client = new Client({
-  connectionString,
+const pool = new pg.Pool({ connectionString });
+
+pool.on('error', (err) => {
+  console.error('Unexpected error on idle client', err);
+  process.exit(-1);
 });
-client.connect();
 
-const query = 'INSERT INTO people(name, text) VALUES($1, $2) RETURNING *';
-const values = ['Mr. Foo', 'Foo!'];
+async function main() {
+  const client = await pool.connect();
 
-client.query(query, values, (err, res) => {
-  if (err) {
-    console.error(err);
-    return;
+  const query = 'INSERT INTO people(name, text) VALUES($1, $2) RETURNING *';
+  const values = ['Mr. Foo', 'Foo!'];
+
+  try {
+    const result = await client.query(query, values);
+    console.log('rows :>> ', result.rows);
+  } catch (e) {
+    console.error('Error selecting', e);
+  } finally {
+    client.release();
   }
 
-  console.log(res.rows);
-  client.end();
-});
+  await pool.end();
+}
+
+main().catch((e) => { console.error(e); });

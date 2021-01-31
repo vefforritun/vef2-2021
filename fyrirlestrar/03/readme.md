@@ -1,6 +1,6 @@
-# Fyrirlestur 3, 24. janúar 2019
+# Fyrirlestur 3, 28. janúar 2021
 
-[Fyrirlestur 3.1: Form](03.2.form.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 3.1: Form](03.2.form.md), [vídeó](https://youtu.be/pkFhOXibU2w)
 
 * [get.js](daemi/form/01.get.js)
 * [post-urlencoded.js](daemi/form/02.post-urlencoded.js)
@@ -14,12 +14,12 @@
 * [data-sanitize.js](daemi/form/10.data-sanitize.js)
 * [post-redirect-get.js](daemi/form/11.post-redirect-get.js)
 
-[Fyrirlestur 3.2: Postgres](03.2.postgres.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 3.2: Postgres](03.2.postgres.md), [vídeó](https://youtu.be/bbz19aVsEIw)
 
 * [select](daemi/postgres/01.select.js)
 * [insert](daemi/postgres/02.insert.js)
 
-[Fyrirlestur 3.3: Heroku](03.3.heroku.md), [vídeó]()
+[Fyrirlestur 3.3: Heroku](03.3.heroku.md), [vídeó](https://youtu.be/UxnSG2VcjZA)
 
 * [env](daemi/heroku/env.js)
 
@@ -50,6 +50,16 @@
 * [ ] [Búa til account á heroku.com](https://www.heroku.com/), nýta [Heroku for GitHub students](https://www.heroku.com/github-students)
 * [ ] [Sækja Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 * [ ] [Clonea heroku dæmi og setja upp á ykkar account](https://github.com/vefforritun/vef2-2021-heroku)
+* Verkefni 2
+  * [ ] Byggja á dæmi [data-validator.js](daemi/form/09.data-validator.js)
+  * [ ] Útbúa gagnagrunn
+  * [ ] Útbúa tengingu við gagnagrunn í sér skrá, sjá [node-postgres: Suggested Project Structure](https://node-postgres.com/guides/project-structure)
+  * [ ] Útfæra lestur á gögnum úr töflu
+  * [ ] Setja upp form og lista template með EJS
+  * [ ] Setja upp validation á gögnum
+  * [ ] Setja upp sanitaztion á gögnum
+  * [ ] Skrifa gögn í gagnagrunn
+  * [ ] [Setja upp á Heroku](https://youtu.be/bbz19aVsEIw)
 
 ## Ítarefni
 
