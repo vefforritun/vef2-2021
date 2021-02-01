@@ -6,7 +6,7 @@
 * [modules.js](daemi/modules/modules.js)
 * [npm](daemi/modules/npm)
 
-[Fyrirlestur 2.2: Express](02.3.express.md), [vídeó, 1 af 2](https://youtu.be/GD35XdnlsFs), [2 af 2](https://youtu.be/vt4UX4Bh46Q)
+[Fyrirlestur 2.2: Express](02.2.express.md), [vídeó, 1 af 2](https://youtu.be/GD35XdnlsFs), [2 af 2](https://youtu.be/vt4UX4Bh46Q)
 
 * [hello-world.js](daemi/express/01.hello-world.js)
 * [request.js](daemi/express/02.request.js)
@@ -20,7 +20,7 @@
 * [template-ejs.js](daemi/express/09.template-ejs.js)
 * [async-await.js](daemi/express/10.async-await.js)
 
-[Fyrirlestur 2.3: HTTP](03.1.http.md), [vídeó](https://youtu.be/hWVxmMYG3Go)
+[Fyrirlestur 2.3: HTTP](02.3.http.md), [vídeó](https://youtu.be/hWVxmMYG3Go)
 
 * [http-methods.js](daemi/http/01.http-methods.js)
 * [content-type.js](daemi/http/02.content-type.js)

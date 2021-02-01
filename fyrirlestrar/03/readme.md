@@ -1,6 +1,6 @@
 # Fyrirlestur 3, 28. janúar 2021
 
-[Fyrirlestur 3.1: Form](03.2.form.md), [vídeó](https://youtu.be/pkFhOXibU2w)
+[Fyrirlestur 3.1: Form](03.1.form.md), [vídeó](https://youtu.be/pkFhOXibU2w)
 
 * [get.js](daemi/form/01.get.js)
 * [post-urlencoded.js](daemi/form/02.post-urlencoded.js)
