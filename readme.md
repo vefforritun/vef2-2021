@@ -10,7 +10,7 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 |   2  | 21. janúar  | Einingar, express, HTTP      |                |                |
 |   3  | 28. janúar  | Form, postgres, Heroku       | Verkefni #2    | Verkefni #1    |
 |   4  | 4. febrúar  | Öryggi, vefþjónustur         | Hópverkefni #1 |                |
-|   5  | 11. febrúar | Vefþjónustur, auðkenning     | Verkefni #3    | Verkefni #2    |
+|   5  | 11. febrúar | Auðkenning, vefþjónustur     | Verkefni #3    | Verkefni #2    |
 |   6  | 18. febrúar | Vefþjónustur                 |                |                |
 |   7  | 25. febrúar | redis & cache, straumar & WS | Verkefni #4    | Verkefni #3    |
 |   8  | 4. mars     | GraphQL                      |                | Hópverkefni #1 |
@@ -57,9 +57,10 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
 
 ## Hópverkefni
 
-* Hópverkefni 1
+* [Hópverkefni 1](https://github.com/vefforritun/vef2-2021-h1)
   * Sett fyrir 4. feb
-  * Skilist um 4. mars
+  * Skilist um 7. mars
+  * [Kynning í fyrirlestri](https://youtu.be/gQEFFKGumG0)
 * Hópverkefni 2
   * Sett fyrir 18. mars
   * Skilist um 15. apríl

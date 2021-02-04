@@ -1,6 +1,6 @@
 # Fyrirlestur 4, 4. febrúar 2021
 
-[Fyrirlestur 4.1 – Öryggi](04.1.security.md), [vídeó]()
+[Fyrirlestur 4.1: Öryggi](04.1.security.md), [vídeó](https://youtu.be/KJ1-CYu8Q8A)
 
 * [logging](daemi/security/01.logging.js)
 * [xss-reflected](daemi/security/02.xss-reflected.js)
@@ -8,14 +8,14 @@
 * [xss-log](daemi/security/04.xss-log.js)
 * [powered-by](daemi/security/05.powered-by.js)
 
-[Fyrirlestur 4.2 – Öryggi](04.2.security.md), [vídeó]()
+[Fyrirlestur 4.2: Öryggi](04.2.security.md), [vídeó](https://youtu.be/87LrU9duAo4)
 
 * [sql-injection](daemi/security/06.sql-injection.js)
 * [command-injection](daemi/security/07.command-injection.js)
 * [csp](daemi/security/08.csp.js)
 * [csrf](daemi/security/09.csrf.js)
 
-[Fyrirlestur 4.3: Vefþjónustur](04.3.vefþjonustur.md), [vídeó]()
+[Fyrirlestur 4.3: Vefþjónustur](04.3.vefþjonustur.md), [vídeó](https://youtu.be/w653BhlaCiA)
 
 * [get](daemi/ws/01.get.js)
 * [post](daemi/ws/02.post.js)
