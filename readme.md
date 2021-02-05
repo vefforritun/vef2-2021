@@ -50,6 +50,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
 * [Verkefni 2](https://github.com/vefforritun/vef2-2021-v2)
   * Sett fyrir 28. janúar
   * Skilist 11. febrúar
+  * [Kynning í fyrirlestri](https://youtu.be/1kRJBE040oY)
 * Verkefni 3
 * Verkefni 4
 * Verkefni 5
