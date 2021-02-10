@@ -40,6 +40,8 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Form, postgres, Heroku
 * [Fyrirlestur 4, 4. febrúar 2021](fyrirlestrar/04/)
   * Öryggi, vefþjónustur
+* [Fyrirlestur 5, 11. febrúar 2021](fyrirlestrar/05/)
+  * Auðkenning, vefþjónustur
 
 ## Verkefni
 
