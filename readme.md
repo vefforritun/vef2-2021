@@ -49,9 +49,12 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Sett fyrir 14. janúar
   * Skilist 28. janúar
   * [Kynning í fyrirlestri](https://youtu.be/pCEHnurbuCU)
+  * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v1-synilausn)
+  * [Yfirferð á sýnilausn](https://youtu.be/Wjn0NAH_xFY)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2021-v2)
   * Sett fyrir 28. janúar
-  * Skilist 11. febrúar
+  * Skilist 13. febrúar
+  * Lokar 15. febrúar
   * [Kynning í fyrirlestri](https://youtu.be/1kRJBE040oY)
 * Verkefni 3
 * Verkefni 4
