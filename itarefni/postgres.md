@@ -145,7 +145,11 @@ postgres=# ALTER USER notandi VALID UNTIL 'infinity';
 ALTER ROLE
 ```
 
-Ef notandi hefur lykilorð verður að breyta tengistreng t.d. í `'postgres://notandi:foo@localhost/v2'`
+Ef notandi hefur lykilorð verður að breyta tengistreng t.d. í `'postgres://notandi:foo@localhost/v2'`.
+
+## Ubuntu
+
+[How to fix an error: password authentication failed for the user in PostgreSQL](https://hassanannajjar.medium.com/how-to-fix-error-password-authentication-failed-for-the-user-in-postgresql-896e1fd880dc).
 
 ---
 
