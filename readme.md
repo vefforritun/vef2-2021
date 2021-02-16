@@ -70,3 +70,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
 * Hópverkefni 2
   * Sett fyrir 18. mars
   * Skilist um 15. apríl
+
+## Nánari upplýsingar kennsluáætlunar
+
+Nánari upplýsingar kennsluáætlunar svo sem námskeiðslýsing, fyrirkomulag fyrirlestra, dæmatíma, verkefna, mætingar, prófa og námsmat kemur fram í fyrirlestrinum [1.1 - Kynning](fyrirlestrar/01/01.1.kynning.md)
