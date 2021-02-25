@@ -12,7 +12,11 @@ import fetch from 'node-fetch';
 const API_URL = 'http://localhost:5000';
 
 async function get() {
-  const url = new URL('/error', API_URL).href;
+
+
+  const url = new URL('error', API_URL).href;
+
+
   const response = await fetch(url);
   console.log('GET response status', response.status);
   console.log('Response ok?', response.ok);

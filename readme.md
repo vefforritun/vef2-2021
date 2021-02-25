@@ -67,7 +67,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Sett fyrir 25. febrúar
   * Skilist 13. mars
   * Lokar 15. mars
-  * [Kynning á verkefni](https://www.youtube.com/watch?v=GW-mbrG5dEs)
+  * [Kynning á verkefni](https://youtu.be/U8K0m9zRxHk)
 * Verkefni 5
   * Sett fyrir 11. mars
   * Skilist 27. mars

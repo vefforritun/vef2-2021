@@ -1,11 +1,11 @@
 # Fyrirlestur 6, 25. febrúar 2021
 
-[Fyrirlestur 6.1: cache](06.1.cache.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.1: cache](06.1.cache.md), [vídeó](https://youtu.be/BpuJBRwq_Cs)
 
 * [cache.js](./daemi/cache/01.cache.js)
 * [etag.js](./daemi/cache/02.etag.js)
 
-[Fyrirlestur 6.2: redis](06.2.redis.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.2: redis](06.2.redis.md), [vídeó](https://youtu.be/9l3AOW2cB9U)
 
 * [redis.js](./daemi/redis/01.redis.js)
 * [redis-keys.js](./daemi/redis/02.redis-keys.js)
@@ -13,7 +13,7 @@
 * [redis-json.js](./daemi/redis/04.redis-json.js)
 * [session.js](./daemi/redis/05.session.js)
 
-[Fyrirlestur 6.3: Vefþjónustur & fetch](06.3.ws-fetch.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.3: Vefþjónustur & fetch](06.3.ws-fetch.md), [vídeó](https://youtu.be/MpfqsXfK6iY)
 
 * [get.js](./daemi/fetch/01.get.js)
 * [post.js](./daemi/fetch/02.post.js)
@@ -21,7 +21,7 @@
 * [headers.js](./daemi/fetch/04.headers.js)
 * [error.js](./daemi/fetch/05.error.js)
 
-[Fyrirlestur 6.4: Atburðir & straumar](06.4.events-streams.md), [vídeó]()
+[Fyrirlestur 6.4: Atburðir & straumar](06.4.events-streams.md), [vídeó](https://youtu.be/EZWUaYXo32o)
 
 * [eventemitter.js](./daemi/events-streams/01.eventemitter.js)
 * [write-stream.js](./daemi/events-streams/02.write-stream.js)
