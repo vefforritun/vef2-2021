@@ -1,11 +1,17 @@
 module.exports = {
-  extends: 'airbnb-base',
+  extends: ['airbnb-base', 'plugin:react/recommended'],
+  parserOptions: {
+    ecmaVersion: 2018,
+    ecmaFeatures: {
+      jsx: true,
+    },
+  },
   plugins: [
     'markdown',
     'html',
   ],
   env: {
-    browser: true
+    browser: true,
   },
   rules: {
     // dæmi verða læsilegri ef þau eru ekki með löngum línum
@@ -15,9 +21,9 @@ module.exports = {
     'no-console': 0,
 
     // leyfa i++ í for
-    'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }],
+    'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
 
-    'function-paren-newline': ["error", "consistent"],
+    'function-paren-newline': ['error', 'consistent'],
 
     // viljum frekar named export
     'import/prefer-default-export': 0,
@@ -26,5 +32,5 @@ module.exports = {
     'import/extensions': 0,
 
     'no-continue': 0,
-  }
+  },
 };
