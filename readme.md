@@ -42,6 +42,10 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Öryggi, vefþjónustur
 * [Fyrirlestur 5, 11. febrúar 2021](fyrirlestrar/05/)
   * Auðkenning, vefþjónustur
+* [Fyrirlestur 6, 25. febrúar 2021](fyrirlestrar/06/)
+  * redis & cache, straumar & WS
+* [Fyrirlestur 7, 4. mars 2021](fyrirlestrar/07/)
+  * Framenda framework, react
 
 ## Verkefni
 
@@ -63,6 +67,8 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Skilist 27. febrúar
   * Lokar 1. mars
   * [Kynning á verkefni](https://www.youtube.com/watch?v=GW-mbrG5dEs)
+  * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v3-synilausn)
+  * [Yfirferð á sýnilausn](https://youtu.be/hVhlxcxZ-Oc)
 * [Verkefni 4](https://github.com/vefforritun/vef2-2021-v4)
   * Sett fyrir 25. febrúar
   * Skilist 13. mars

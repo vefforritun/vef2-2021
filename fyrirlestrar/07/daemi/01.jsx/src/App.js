@@ -6,7 +6,7 @@ const xss = '<script>alert(1)</script>';
 
 const img = {
   url: 'https://www.hi.is/sites/default/files/drupal/pallas_vert.svg',
-};
+}
 
 const headingWithoutJsx = React.createElement(
   'h1',
@@ -21,7 +21,7 @@ const headingWithoutJsx = React.createElement(
 export default function App() {
   return (
     <div>
-      <p>Testing {[1, 2, 3].join(', ')}</p>
+      <p>Testing {[1, 2, 3, 4].join(', ')}</p>
 
       <p className="foo" data-foo="bar" data-bar={3 * 3}>bar</p>
 
