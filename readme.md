@@ -45,7 +45,9 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
 * [Fyrirlestur 6, 25. febrúar 2021](fyrirlestrar/06/)
   * redis & cache, straumar & WS
 * [Fyrirlestur 7, 4. mars 2021](fyrirlestrar/07/)
-  * Framenda framework, react
+  * Framenda framework, react, components, state & events
+* [Fyrirlestur 8, 11. mars 2021](fyrirlestrar/08/)
+  * React, lifecycle, ajax, forms, uppsetning verkefna, react router
 
 ## Verkefni
 
@@ -74,10 +76,11 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Skilist 13. mars
   * Lokar 15. mars
   * [Kynning á verkefni](https://youtu.be/U8K0m9zRxHk)
-* Verkefni 5
+* [Verkefni 5](https://github.com/vefforritun/vef2-2021-v5)
   * Sett fyrir 11. mars
   * Skilist 27. mars
   * Lokar 29. mars
+  * [Kynning á verkefni](https://www.youtube.com/watch?v=)
 * Verkefni 6
   * Sett fyrir 25. mars
   * Skilist 10. apríl
