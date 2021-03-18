@@ -1,21 +1,21 @@
 # Fyrirlestur 8, 11. mars 2021
 
-[Fyrirlestur 8.1: React lifecycle](08.1.react-lifecycle.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.1: React lifecycle](08.1.react-lifecycle.md), [vídeó](https://youtu.be/C2ApcYVR6Mc)
 
 * [Klukka](./daemi/01.clock)
 * [Hooks](./daemi/02.hooks)
 
-[Fyrirlestur 8.2: React: Ajax og forms](08.2.react-ajax-forms.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.2: React: Ajax og forms](08.2.react-ajax-forms.md), [vídeó](https://youtu.be/avUfO9sPScs)
 
 * [Ajax](./daemi/03.ajax)
 * [Form](./daemi/04.form)
 * [Lifting state](./daemi/05.lifting-state)
 
-[Fyrirlestur 8.3: React: skipulag verkefna](08.3.react-project.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.3: React: skipulag verkefna](08.3.react-project.md), [vídeó](https://youtu.be/H_qoQma_UHw)
 
 * [Project](./daemi/06.project)
 
-[Fyrirlestur 8.4: React Router](08.4.react-router.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.4: React Router](08.4.react-router.md), [vídeó](https://youtu.be/Z_y70KqNaDM)
 
 * [react router](./daemi/07.react-router)
 

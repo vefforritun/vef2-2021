@@ -35,9 +35,7 @@ export class Clock extends Component {
 
     const time = this.state.date.toLocaleString('is-IS', { timeZone });
     return (
-      <div>
-        <p>{time}</p>
-      </div>
+      <p>{time}</p>
     );
   }
 }

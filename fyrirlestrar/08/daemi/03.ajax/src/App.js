@@ -56,7 +56,7 @@ Earthquakes.propTypes = {
 function Earthquakes({ type, period }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [data, setData] = useState(false);
+  const [data, setData] = useState(null);
 
   useEffect(() => {
     async function fetchData() {
@@ -136,9 +136,12 @@ function Earthquakes({ type, period }) {
 }
 
 export default function App() {
+  const type = 'significant';
   return (
     <main>
       <h1>Jarðskjálftar</h1>
+      <Earthquakes type={type} period="hour" />
+      <Earthquakes type="significant" period="day" />
       <Earthquakes type="significant" period="week" />
     </main>
   );
