@@ -16,3 +16,5 @@ temp
 
 # Ekki tracka package-lock.json í dæmum
 **/package-lock.json
+
+.next/

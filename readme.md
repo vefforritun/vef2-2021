@@ -4,23 +4,23 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 
 ## Kennsluáætlun
 
-| Vika | Fimmtudagur | Viðfangsefni                 | Verkefni       | Skil           |
-|------|-------------|------------------------------|----------------|----------------|
-|   1  | 14. janúar  | Kynning, node.js             | Verkefni #1    |                |
-|   2  | 21. janúar  | Einingar, express, HTTP      |                |                |
-|   3  | 28. janúar  | Form, postgres, Heroku       | Verkefni #2    | Verkefni #1    |
-|   4  | 4. febrúar  | Öryggi, vefþjónustur         | Hópverkefni #1 |                |
-|   5  | 11. febrúar | Auðkenning, vefþjónustur     | Verkefni #3    | Verkefni #2    |
-|      | 18. febrúar | **Fyrirlestur féll niður**   |                |                |
-|   6  | 25. febrúar | redis & cache, straumar & WS | Verkefni #4    | Verkefni #3    |
-|   7  | 4. mars     | Framenda framework, react    |                |                |
-|   8  | 11. mars    | React                        | Verkefni #5    | Verkefni #4    |
-|   9  | 18. mars    | React, next.js               | Hópverkefni #2 | Hópverkefni #1 |
-|  10  | 25. mars    | TypeScript, GraphQL          | Verkefni #6    | Verkefni #5    |
-|      | 1. apríl    | **Páskafrí**                 |                |                |
-|  11  | 8. apríl    | Bundling, CMS, annað?        |                | Verkefni #6    |
-|  12  | 15. apríl   | Upprifjun og um lokapróf     |                | Hópverkefni #2 |
-|      | 22. apríl   | **Sumardagurinn fyrsti**     |                |                |
+| Vika | Fimmtudagur | Viðfangsefni                    | Verkefni       | Skil           |
+|------|-------------|---------------------------------|----------------|----------------|
+|   1  | 14. janúar  | Kynning, node.js                | Verkefni #1    |                |
+|   2  | 21. janúar  | Einingar, express, HTTP         |                |                |
+|   3  | 28. janúar  | Form, postgres, Heroku          | Verkefni #2    | Verkefni #1    |
+|   4  | 4. febrúar  | Öryggi, vefþjónustur            | Hópverkefni #1 |                |
+|   5  | 11. febrúar | Auðkenning, vefþjónustur        | Verkefni #3    | Verkefni #2    |
+|      | 18. febrúar | **Fyrirlestur féll niður**      |                |                |
+|   6  | 25. febrúar | redis & cache, straumar & WS    | Verkefni #4    | Verkefni #3    |
+|   7  | 4. mars     | Framenda framework, react       |                |                |
+|   8  | 11. mars    | React                           | Verkefni #5    | Verkefni #4    |
+|   9  | 18. mars    | TypeScript, next.js             |                | Hópverkefni #1 |
+|      | 25. mars    | **Fyrirlestur féll niður**      |                | Verkefni #5    |
+|      | 1. apríl    | **Páskafrí**                    |                |                |
+|  10  | 8. apríl    | React context, testing, GraphQL | Verkefni #6    |                |
+|  11  | 15. apríl   | Upprifjun og um lokapróf        |                |                |
+|      | 22. apríl   | **Sumardagurinn fyrsti**        |                |  Verkefni #6   |
 
 ## Fyrirlestrar
 
@@ -48,6 +48,12 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Framenda framework, react, components, state & events
 * [Fyrirlestur 8, 11. mars 2021](fyrirlestrar/08/)
   * React, lifecycle, ajax, forms, uppsetning verkefna, react router
+* [Fyrirlestur 9, 18. mars 2021](fyrirlestrar/09/)
+  * React, next.js
+* [Fyrirlestur 10, 8. apríl 2021](fyrirlestrar/10/)
+  * React, context, redux, GraphQL
+* [Fyrirlestur 11, 15. apríl 2021](fyrirlestrar/11/)
+  * Upprifjun og um lokapróf
 
 ## Verkefni
 
@@ -76,15 +82,17 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Skilist 13. mars
   * Lokar 15. mars
   * [Kynning á verkefni](https://youtu.be/U8K0m9zRxHk)
+  * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v4-synilausn)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2021-v5)
   * Sett fyrir 11. mars
   * Skilist 27. mars
   * Lokar 29. mars
-  * [Kynning á verkefni](https://www.youtube.com/watch?v=)
-* Verkefni 6
+  * [Kynning á verkefni](https://youtu.be/EyRD1dVVDiU)
+  * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v5-synilausn)
+* [Verkefni 6](https://github.com/vefforritun/vef2-2021-v6)
   * Sett fyrir 25. mars
-  * Skilist 10. apríl
-  * Lokar 12. apríl
+  * Skilist ~10. apríl~, 22. apríl
+  * Lokar 22. apríl
 
 ## Hópverkefni
 
@@ -92,9 +100,15 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Sett fyrir ~4. feb~, 21. feb
   * Skilist 21. mars
   * [Kynning í fyrirlestri](https://youtu.be/gQEFFKGumG0)
+  * [Sýnilausn](https://github.com/vefforritun/vef2-2021-h1-synilausn)
 * Hópverkefni 2
-  * Sett fyrir 18. mars
-  * Skilist um 15. apríl
+  * Hópverkefni 2 var sleppt
+
+## Lokapróf
+
+Miðvikudaginn 28 apr. 2021 kl. 13:30 - 16:30. Inspera heimapróf (ólæst).
+
+[Sjá nánar í fyrirlestri 12.2](./fyrirlestrar/12/12.2.lokaprof.md).
 
 ## Nánari upplýsingar kennsluáætlunar
 
