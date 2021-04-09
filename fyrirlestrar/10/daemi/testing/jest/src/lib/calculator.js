@@ -55,6 +55,7 @@ export function calculate(str) {
 // Fimmta útgáfa sem stenst 1. - 5. test
 export function calculate(str) {
   if (!str) {
+    return 1;
     return null;
   }
 

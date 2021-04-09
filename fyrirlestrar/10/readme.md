@@ -1,17 +1,19 @@
 
 # Fyrirlestur 10, 25. mars 2021
 
-[Fyrirlestur 10.1: Context](10.1.context.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 10.1: React Context](10.1.context.md), [vídeó](https://youtu.be/s4rpLMTbT3k)
 
 * [Theme](daemi/context/theme)
 * [Login](daemi/context/login)
 
-[Fyrirlestur 10.2: Testing](10.2.testing.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 10.2: Testing](10.2.testing.md), [vídeó](https://youtu.be/dsTC21aLMjQ)
 
 * [Jest](daemi/testing/jest)
 * [Cypress](daemi/testing/cypress)
+* [Test í sýnilausn á verkefni 1](https://github.com/vefforritun/vef2-2021-v1-synilausn/blob/main/src/lib/format.test.js)
+* [Test í sýnilausn á hópverkefni 1](https://github.com/vefforritun/vef2-2021-h1-synilausn/tree/main/src/tests)
 
-[Fyrirlestur 10.3: GraphQL](10.3.graphql.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 10.3: GraphQL](10.3.graphql.md), [vídeó](https://youtu.be/8tTRqYdFH0Q)
 
 * [GraphQL & NextJs](daemi/graphql)
 
@@ -19,6 +21,7 @@
 
 * [React docs: Context](https://reactjs.org/docs/context.html)
 * [Fyrirlestur í vef2 2019 um redux og flux](https://github.com/vefforritun/vef2-2019/blob/master/fyrirlestrar/10/10.1.flux-redux.md), [vídeó](https://youtu.be/7rX3VCjjqOk)
+* [GraphQL—Learn](https://graphql.org/learn/)
 
 ## Ítarefni
 
