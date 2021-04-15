@@ -83,16 +83,19 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Lokar 15. mars
   * [Kynning á verkefni](https://youtu.be/U8K0m9zRxHk)
   * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v4-synilausn)
+  * [Yfirferð á sýnilausn](https://youtu.be/cI670u7EL1Y)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2021-v5)
   * Sett fyrir 11. mars
   * Skilist 27. mars
   * Lokar 29. mars
   * [Kynning á verkefni](https://youtu.be/EyRD1dVVDiU)
   * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v5-synilausn)
+  * [Yfirferð á sýnilausn](https://youtu.be/zwNhNHzc-LE)
 * [Verkefni 6](https://github.com/vefforritun/vef2-2021-v6)
   * Sett fyrir 25. mars
   * Skilist ~10. apríl~, 22. apríl
   * Lokar 22. apríl
+  * [Kynning á verkefni](https://youtu.be/8tTRqYdFH0Q?t=1772)
 
 ## Hópverkefni
 
@@ -108,7 +111,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
 
 Miðvikudaginn 28 apr. 2021 kl. 13:30 - 16:30. Inspera heimapróf (ólæst).
 
-[Sjá nánar í fyrirlestri 12.2](./fyrirlestrar/12/12.2.lokaprof.md).
+[Sjá nánar í fyrirlestri 11.3](./fyrirlestrar/11/11.3.lokaprof.md).
 
 ## Nánari upplýsingar kennsluáætlunar
 
