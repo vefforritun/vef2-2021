@@ -96,6 +96,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp eða prófa meðfram e
   * Skilist ~10. apríl~, 22. apríl
   * Lokar 22. apríl
   * [Kynning á verkefni](https://youtu.be/8tTRqYdFH0Q?t=1772)
+  * [Sýnilausn](https://github.com/vefforritun/vef2-2021-v6-synilausn)
   * [Yfirferð á sýnilausn](https://youtu.be/_WAzIUxu4ns)
 
 ## Hópverkefni
